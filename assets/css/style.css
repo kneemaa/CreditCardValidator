@@ -1,0 +1,27 @@
+h1 {
+	font-size: 40px;
+	margin-left: -75px;
+	padding-bottom: 20px;
+}
+body {
+	font-size: 18px;
+}
+#validateCard {
+
+}
+#errmsg {
+	color: red;
+}
+.container {
+	//margin: auto;
+	margin-left: -100px;
+	margin-top: -50px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+}
+.cardType, .cardNumber, .validPrompt {
+	position: relative;
+	margin-top: 5px;
+	top: 10px;
+}
